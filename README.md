@@ -1,5 +1,6 @@
 # MediGuide AI
-
+👉 🔗 Try Live Demo: MediPro AI — Live Demo
+👉 🎬 View Presentation 🚀 MediGuide AI — Prezi Presentation 
 AI-powered preliminary medical symptom assessment and patient guidance
 assistant, built with **LangChain** + **Streamlit**.
 
